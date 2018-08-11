@@ -5,7 +5,7 @@
   "description": "This package gives you use of 9 extra copy and paste slots.",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/multi-copy",
+  "repository": "https://github.com/OllySturrock/multi-copy",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
