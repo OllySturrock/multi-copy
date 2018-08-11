@@ -1,0 +1,22 @@
+{
+  "atom-workspace": {
+    "ctrl-1":"multi-copy:copy-1",
+    "ctrl-2":"multi-copy:copy-2",
+    "ctrl-3":"multi-copy:copy-3",
+    "ctrl-4":"multi-copy:copy-4",
+    "ctrl-5":"multi-copy:copy-5",
+    "ctrl-6":"multi-copy:copy-6",
+    "ctrl-7":"multi-copy:copy-7",
+    "ctrl-8":"multi-copy:copy-8",
+    "ctrl-9":"multi-copy:copy-9",
+    "alt-1":"multi-copy:paste-1",
+    "alt-2":"multi-copy:paste-2",
+    "alt-3":"multi-copy:paste-3",
+    "alt-4":"multi-copy:paste-4",
+    "alt-5":"multi-copy:paste-5",
+    "alt-6":"multi-copy:paste-6",
+    "alt-7":"multi-copy:paste-7",
+    "alt-8":"multi-copy:paste-8",
+    "alt-9":"multi-copy:paste-9"
+  }
+}
