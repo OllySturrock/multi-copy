@@ -9,6 +9,6 @@
   ### Windows:<br>
    all keybinds work<br>
   ### Mac:<br>
-    Slot 3: alt-3<br>
-    Slot 8: alt-8<br>
-    Slot 9: alt-9  &  ctrl-9<br>
+   Slot 3: alt-3<br>
+   Slot 8: alt-8<br>
+   Slot 9: alt-9  &  ctrl-9<br>
