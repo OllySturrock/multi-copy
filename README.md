@@ -1,5 +1,13 @@
-# multi-copy 0.1.0<br>
-  9 copy and paste slots available as atom functions<br>
+<h1 align="center">
+  multi-copy
+</h1>
+
+<p align="center">
+  <a href="https://atom.io/packages/{package}/"><img src="https://apm-badges.herokuapp.com/apm/multi-copy.svg" alt="apm install multi-copy"></a>
+
+</p>
+
+9 copy and paste slots available as atom functions<br>
 ### key bindings are:<br>
   copy: ctrl + (1-9)<br>
   paste: alt + (1-9)<br>
