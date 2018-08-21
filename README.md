@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://atom.io/packages/{package}/"><img src="https://apm-badges.herokuapp.com/apm/multi-copy.svg" alt="apm install multi-copy"></a>
+  <a href="https://atom.io/packages/multi-copy"><img src="https://apm-badges.herokuapp.com/apm/multi-copy.svg" alt="apm install multi-copy"></a>
 
 </p>
 
